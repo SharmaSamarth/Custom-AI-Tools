@@ -1,0 +1,5 @@
+langchain==0.3.27
+langchain-core>=0.3.72,<1.0.0
+langchain-ollama
+requests
+python-dotenv
